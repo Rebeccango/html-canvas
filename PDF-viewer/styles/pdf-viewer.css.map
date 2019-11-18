@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,EAAE,EAAC,CAAC,CAAA;EACA,WAAW,EAAE,oBAAoB;CACpC",
+    "sources": [
+        "pdf-viewer.scss"
+    ],
+    "names": [],
+    "file": "pdf-viewer.css"
+}
